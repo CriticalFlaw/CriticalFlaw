@@ -1,1 +1,1 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=criticalflaw&show_icons=true&theme=merko&bg_color=0D1117)](https://github.com/CriticalFlaw?tab=repositories)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=criticalflaw&text_bold=true&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&bg_color=131922)](https://github.com/criticalflaw)
