@@ -1,4 +1,4 @@
-```
+```js
 const developer = {
   details: {
     name:          'Igor.',
